@@ -42,6 +42,7 @@ The problem is posed as a finite-horizon, non-deterministic Markov decision proc
 ## Pendulum-v0
 
 ![alt text](https://github.com/shivaverma/OpenAIGym/blob/master/pendulam/pendulam.gif)
+
 The inverted pendulum swingup problem is a classic problem in the control literature. In this version of the problem, the pendulum starts in a random position, and the goal is to swing it up so it stays upright.
 
 
