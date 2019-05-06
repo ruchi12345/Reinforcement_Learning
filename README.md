@@ -48,7 +48,7 @@ The inverted pendulum swingup problem is a classic problem in the control litera
 
 ## Research Infinite Solutions LLP
 
-by Research Infinite Solutions (https://busreservation.ris-ai.com/) (https://www.bets-ai.com/)
+by Research Infinite Solutions (https://www.ris-ai.com//) 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
